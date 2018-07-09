@@ -18,7 +18,7 @@ Before this time period, there were more riders in the East Village,Downtown, Ma
 
 ### Peak Summer and Winter Hours
 The peak hours for winter months are also the evening and the morning such as 5 pm, 8am and 6pm. 
-The peak hours for the summer months are mostly the evening hours such as 5pm, 6pm, and 7 pm. However, 8 am is the third most popular time to ride a break. O
+The peak hours for the summer months are mostly the evening hours such as 5pm, 6pm, and 7 pm. However, 8 am is the third most popular time to ride a break. 
 Overall, it appears that the most popular times to ride a bike is during the evening or morning. This may be due to commuting times. 
 ![peakwinterhours](Images/peakwinterhours.JPG)
 ![peaksummerhours](Images/peaksummerhours.JPG)
