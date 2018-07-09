@@ -16,7 +16,14 @@ Before this time period, there were more riders in the East Village,Downtown, Ma
 ![aug2018popularstations](Images/aug2018popularstations.JPG)
 ![sept2018popularstations](Images/sept2018popularstations.JPG)
 
-### Others
+### Peak Summer and Winter Hours
+The peak hours for winter months are also the evening and the morning such as 5 pm, 8am and 6pm. 
+The peak hours for the summer months are mostly the evening hours such as 5pm, 6pm, and 7 pm. However, 8 am is the third most popular time to ride a break. O
+Overall, it appears that the most popular times to ride a bike is during the evening or morning. This may be due to commuting times. 
+![peakwinterhours](Images/peakwinterhours.JPG)
+![peaksummerhours](Images/peaksummerhours.JPG)
 
-* How many trips have been recorded total during the chosen period?
-* By what percentage has total ridership grown? 
+### Top Stations for Starting and Ending a Trip
+
+* What are the top 10 stations in the city for starting a journey? 
+* What are the top 10 stations in the city for ending a journey? 
