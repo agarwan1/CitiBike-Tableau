@@ -27,3 +27,4 @@ Overall, it appears that the most popular times to ride a bike is during the eve
 
 * What are the top 10 stations in the city for starting a journey? 
 * What are the top 10 stations in the city for ending a journey? 
+![topstationsendjourney](Images/topstationsendjourney.JPG)
